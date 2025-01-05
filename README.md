@@ -7,7 +7,7 @@ Hi! I'm Jawadul (Salvin) Chowdhury! I'm currently pursuing a undergraduate degre
 
 ![MSOE Red Bar](https://via.placeholder.com/1200x10/9E1B32/9E1B32)
 
-[![Favorite Song](https://i.scdn.co/image/ab67616d0000b2737d2d2faeae99dca62d3ef98a)](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 
 **Current Position**: Undergraduate Research Assistant at [Milwaukee School of Engineering](https://www.msoe.edu/)
