@@ -7,7 +7,8 @@ Hi! I'm Jawadul (Salvin) Chowdhury! I'm currently pursuing a undergraduate degre
 
 ![MSOE Red Bar](https://via.placeholder.com/1200x10/9E1B32/9E1B32)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Kacey Musgraves - The Architect](https://spotify-github-readme.vercel.app/api/spotify?track=5jplLqx4Tk0L2xx4v5aVpa)](https://open.spotify.com/track/5jplLqx4Tk0L2xx4v5aVpa)
+
 
 
 **Current Position**: Undergraduate Research Assistant at [Milwaukee School of Engineering](https://www.msoe.edu/)
